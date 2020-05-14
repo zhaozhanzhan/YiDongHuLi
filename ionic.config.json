@@ -1,0 +1,8 @@
+{
+  "name": "mobileCaseApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular",
+  "id": "c53054d5"
+}
